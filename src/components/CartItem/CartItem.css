@@ -1,0 +1,26 @@
+.cart-item {
+    background-color: aquamarine;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.cart-item img {
+    height: 50px;
+    width: 50px;
+    border-radius: 10px;
+}
+
+.cart-item p,
+h3 {
+    margin: 5px;
+}
+
+.cart-item button {
+    border: none;
+    padding: 10px;
+    font-weight: 700;
+}

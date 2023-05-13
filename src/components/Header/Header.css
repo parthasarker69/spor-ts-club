@@ -1,0 +1,36 @@
+.header {
+    height: 8rem;
+    background-color: rgba(0, 255, 123, 0.84);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 10rem;
+    padding-right: 10rem;
+
+}
+
+.header-logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.header-logo h1 {
+    margin-left: 60px;
+    font-size: 2.8rem;
+}
+
+.header img {
+    height: 90px;
+}
+
+.header a {
+    text-decoration: none;
+    color: black;
+    font-weight: 700;
+    margin-right: 20px;
+}
+
+.header a:hover {
+    color: crimson;
+}
